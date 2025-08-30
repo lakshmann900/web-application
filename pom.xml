@@ -97,8 +97,8 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Aqib Releases Nexus Repository</name>
-	      <url>http://13.127.227.173:8081/repository/aqib-release/</url>
+	      <name>sriram-release</name>
+	      <url>http://13.232.120.227:8081/repository/aqib-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
