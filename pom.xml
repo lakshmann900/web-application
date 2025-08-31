@@ -5,7 +5,7 @@
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
-	<version>19.5.6</version>
+	<version>19.5.6-SNAPSHOT</version>
 	
 	<name>maven-web-application</name>
 
@@ -103,8 +103,8 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Aqib Snapshot Nexus Repository </name>
-	      <url>http://13.127.227.173:8081/repository/aqib-snapshot/</url>
+	      <name>sriram-snapshot</name>
+	      <url>http://13.201.127.14:8081/repository/sriram-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
