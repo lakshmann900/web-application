@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>sriram-snapshot</name>
-	      <url>http://43.205.241.44:8081/repository/sriram-snapshot/</url>
+	      <url>http://43.205.120.155:8081/repository/sriram-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
