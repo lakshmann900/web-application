@@ -98,7 +98,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>sriram-release</name>
-	      <url>http://13.201.127.14:8081/repository/sriram-release/</url>
+	      <url>http://43.205.241.44:8081/repository/sriram-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
