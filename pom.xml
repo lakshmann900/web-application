@@ -1,6 +1,6 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
-	<modelVersion>4.0.0</modelVersion>
+	<modelVersion>4.0.0-SNAPSHOT</modelVersion>
 	
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>sriram-snapshot</name>
-	      <url>http://13.201.127.14:8081/repository/sriram-snapshot/</url>
+	      <url>http://43.205.241.44:8081/repository/sriram-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
