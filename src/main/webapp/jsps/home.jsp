@@ -123,7 +123,7 @@
             <p>Explore our wide range of undergraduate, graduate, and certification programs designed for student success.</p>
         </div>
         <div class="section">
-            <h3>Student Life</h3>
+            <h3>Student Lifessss</h3>
             <p>We offer a vibrant campuss life with clubs, events, and opportunities for students to grow both academically and socially.</p>
         </div>
     </section>
