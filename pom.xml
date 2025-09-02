@@ -97,8 +97,8 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>sriram-release</name>
-	      <url>http://43.205.120.155:8081/repository/sriram-release/</url>
+	      <name>japan-release</name>
+	      <url>http://52.66.91.125:8081/repository/japan-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
