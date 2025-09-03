@@ -97,8 +97,8 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>japan-release</name>
-	      <url>http://13.234.37.208:8081/repository/japan-release/</url>
+	      <name>sun-release</name>
+	      <url>http://3.90.186.12:8081/repository/sun-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
