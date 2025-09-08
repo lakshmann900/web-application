@@ -103,8 +103,8 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>sriram-snapshot</name>
-	      <url>http://107.22.104.221:8081/repository/sun-release/</url>
+	      <name>sun-snapshot</name>
+	      <url>http://107.22.104.221:8081/repository/sun-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
