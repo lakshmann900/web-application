@@ -98,7 +98,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>sun-release</name>
-	      <url>http://18.215.155.25:8081/repository/sun-release/</url>
+	      <url>http://107.22.104.221:8081/repository/sun-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
